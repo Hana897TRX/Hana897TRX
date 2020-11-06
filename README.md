@@ -44,8 +44,8 @@
 <p align="center">
 
 <img src="./assets/icons/python.png" alt="python" width="120" hight="50">
-<img src="./assets/icons/java.png" alt="java"  width="100" hight="50">
-<img src="./assets/icons/intellij.png" alt="intellij"  width="170" hight="50">
+<img src="./assets/icons/java.png" alt="java"  width="130" hight="50">
+<img src="./assets/icons/intellij.png" alt="intellij"  width="130" hight="50">
 <img src="./assets/icons/angular.png" alt="angular"  width="130" hight="50">
 <img src="./assets/icons/nodejs.png" alt="nodejs"  width="105" hight="50">
 <img src="./assets/icons/bootstrap.png" alt="bootstrap"  width="125" hight="50">
