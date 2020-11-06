@@ -54,7 +54,7 @@
 <img src="./assets/icons/html.png" alt="html" width="100" hight="50">
 <img src="./assets/icons/csharp.png" alt="csharp" width="75" hight="50">
 </br>
-<img src="./assets/icons/pc.png" alt="pc" width="95" hight="50">
+<img src="./assets/icons/pc.png" alt="pc" width="90" hight="50">
 <img src="./assets/icons/edge.png" alt="edge" width="95" hight="50">
 <img src="./assets/icons/unity.png" alt="unity" width="100" hight="50">
 </p>
