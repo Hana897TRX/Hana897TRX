@@ -43,8 +43,8 @@
 
 <p align="center">
 
-<img src="./assets/icons/python.png" alt="python" width="110" hight="50">
-<img src="./assets/icons/java.png" alt="java"  width="90" hight="50">
+<img src="./assets/icons/python.png" alt="python" width="105" hight="50">
+<img src="./assets/icons/java.png" alt="java"  width="85" hight="50">
 <img src="./assets/icons/intellij.png" alt="intellij"  width="145" hight="50">
 <img src="./assets/icons/angular.png" alt="angular"  width="130" hight="50">
 <img src="./assets/icons/nodejs.png" alt="nodejs"  width="105" hight="50">
