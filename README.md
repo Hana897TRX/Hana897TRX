@@ -11,7 +11,7 @@
 
 # About ME 💬 :
 
-### - I'm 20 years old, I love to learn the stragest stuff in the world 👻👀
+### - I'm 20 years old, I love to learn the strangest stuff in the world 👻👀
 
 <img hight="400" width="500" alt="GIF" align="right" src="./assets/bump.gif">
 
