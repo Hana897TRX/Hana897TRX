@@ -11,7 +11,7 @@
 ### - I'm 20 years old, I love to learn the strangest stuff in the world 👻👀
 # About ME 💬 :
 
-```javscript
+```javascript
 const hana897trx = {
    pronouns: "she" / "her",
    code: [Java, C++, C#, Python, HTML, CSS, JavaScript, Dart, Kotlin, OpenGL, MySQL, NodeJS, MongoDB],
