@@ -16,7 +16,7 @@ const hana897trx = {
    pronouns: "she" / "her",
    code: [Java, C++, C#, Python, HTML, CSS, JavaScript, Dart, Kotlin, OpenGL, MySQL, NodeJS, MongoDB],
    tools: [Android Studio, Unity, Visual Studio, Visual Studio Code, Anaconda, DataGrip, Azure, AWS],
-   comunities: [Beautiful Patterns, Women + Tech]
+   comunities: [Beautiful Patterns, Women + Tech],
    hobbies: [Gaming, Anime, Manga, WebComics, Drawing]
 }
 ```
