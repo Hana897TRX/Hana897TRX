@@ -8,31 +8,19 @@
 </br>
 </br>
 
-
+### - I'm 20 years old, I love to learn the strangest stuff in the world 👻👀
 # About ME 💬 :
 
-### - I'm 20 years old, I love to learn the strangest stuff in the world 👻👀
+```javscript
+const hana897trx = {
+   pronouns: "she" / "her",
+   code: [Java, C++, C#, Python, HTML, CSS, JavaScript, Dart, Kotlin, OpenGL, MySQL, NodeJS, MongoDB],
+   tools: [Android Studio, Unity, Visual Studio, Visual Studio Code, Anaconda, DataGrip, Azure, AWS],
+   comunities: [Beautiful Patterns, Women + Tech]
+   hobbies: [Gaming, Anime, Manga, WebComics, Drawing]
+}
+```
 
-<img hight="400" width="500" alt="GIF" align="right" src="./assets/bump.gif">
-
-### - What I'm learning :
-- ✨ Data Science
-- ✨ JavaScript / CSS / HTML
-- ✨ Node.js and Angular
-- ✨ C/C++
-- ✨ Marketing
-- ✨ Python
-- ✨ Java
-- ✨ OpenGL
-- ✨ WebGL
-- ✨ Unity
-
-### - Hobbies : 
-- ✨ Gaming
-- ✨ Watching Anime
-- ✨ Reading Manga an WebComics
-- ✨ Drawing
-- ✨ Reading
 
 </br>
 </br>
