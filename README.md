@@ -5,11 +5,6 @@
 </div>
 
 </br>
-</br>
-
-[![Twitter: Hana897TRX](https://img.shields.io/twitter/follow/Hana897TRX?style=social)](https://twitter.com/Hana897TRX)
-[![Linkedin: Gabriela Fernanda Rmrz](https://img.shields.io/badge/-Gabriela_Fernanda-blueviolet?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gabriela-soto-rmrz/)](https://www.linkedin.com/in/gabriela-soto-rmrz/)
-[![GitHub FernandaOchoa](https://img.shields.io/github/followers/Hana897TRX?label=follow&style=social)](https://github.com/Hana897TRX)
 
 </br>
 
@@ -26,8 +21,12 @@ const hana897trx = {
 }
 ```
 
-
 </br>
+
+[![Twitter: Hana897TRX](https://img.shields.io/twitter/follow/Hana897TRX?style=social)](https://twitter.com/Hana897TRX)
+[![Linkedin: Gabriela Fernanda Rmrz](https://img.shields.io/badge/-Gabriela_Fernanda-blueviolet?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gabriela-soto-rmrz/)](https://www.linkedin.com/in/gabriela-soto-rmrz/)
+[![GitHub FernandaOchoa](https://img.shields.io/github/followers/Hana897TRX?label=follow&style=social)](https://github.com/Hana897TRX)
+
 </br>
 </br>
 
