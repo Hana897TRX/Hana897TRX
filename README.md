@@ -1,7 +1,7 @@
 # Hii ^^ 👋
 
 <div align="center">
-<img hight="300" width="700" alt="GIF" align="center" src="./assets/hello.gif">
+<img hight="200" width="600" alt="GIF" align="center" src="./assets/hello.gif">
 </div>
 
 </br>
