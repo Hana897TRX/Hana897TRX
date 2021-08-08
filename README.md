@@ -8,7 +8,7 @@
 
 </br>
 
-### - I'm 20 years old, I love to learn the strangest stuff in the world 👻👀
+### - I'm 20 years old, I love learning the strangest stuff in the world 👻👀
 # About ME 💬 :
 
 ```javascript
@@ -86,4 +86,4 @@ If you want to reach out to me about anything, be it some doubt or just to hango
 
 *************
 
-❤️ By [@Hana897TRX](https://github.com/Hana897TRX)
+❤️ By [@Hana897TRX](https://github.com/Hana897TRX) Expand your world, expand your reality 💜
