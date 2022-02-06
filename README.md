@@ -8,7 +8,7 @@
 
 </br>
 
-### - I'm 20 years old, I love learning the strangest stuff in the world 👻👀
+### - I'm 21 years old, I love learning the strangest stuff in the world 👻👀
 # About ME 💬 :
 
 ```javascript
