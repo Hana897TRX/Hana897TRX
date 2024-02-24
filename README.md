@@ -8,7 +8,7 @@
 
 </br>
 
-### - I'm 22 years old, I love learning the strangest stuff in the world 👻👀
+### - I'm 23 years old, I love learning the strangest stuff in the world 👻👀
 # About ME 💬 :
 
 ```javascript
@@ -25,7 +25,6 @@ const hana897trx = {
 <div align="center">
 
    [![Twitter: Hana897TRX](https://img.shields.io/twitter/follow/Hana897TRX?style=social)](https://twitter.com/Hana897TRX)
-   [![Linkedin: Hana Gabriela](https://img.shields.io/badge/-Gabriela_Fernanda-blueviolet?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gabriela-soto-rmrz/)](https://www.linkedin.com/in/gabriela-soto-rmrz/)
    [![GitHub Hana897TRX](https://img.shields.io/github/followers/Hana897TRX?label=follow&style=social)](https://github.com/Hana897TRX)
 
 </div>
